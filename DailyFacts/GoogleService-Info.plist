@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>175272526538-houojl3uofkndfn3mhi9a5c6uaet36rq.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.175272526538-houojl3uofkndfn3mhi9a5c6uaet36rq</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDccf3Eu3hMdRABhwIX4Uscwth78D3CFdg</string>
+	<key>GCM_SENDER_ID</key>
+	<string>175272526538</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>techsavage.dev.DailyFacts</string>
+	<key>PROJECT_ID</key>
+	<string>dailyfact-b9769</string>
+	<key>STORAGE_BUCKET</key>
+	<string>dailyfact-b9769.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:175272526538:ios:aaca97c6f9f936a414ea33</string>
+</dict>
+</plist>
