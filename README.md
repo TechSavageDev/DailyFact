@@ -1,4 +1,4 @@
-# DailyFact
+# DailyFacts
 
 "**DailyFacts: Explore, Share, and Engage with the World of Facts using MVVM!** 📚✨
 
